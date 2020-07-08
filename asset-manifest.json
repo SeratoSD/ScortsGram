@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SeratoSD/ScortsGram.git/static/css/main.f1e49e7a.chunk.css",
-    "main.js": "/SeratoSD/ScortsGram.git/static/js/main.7cbd6891.chunk.js",
-    "main.js.map": "/SeratoSD/ScortsGram.git/static/js/main.7cbd6891.chunk.js.map",
-    "runtime-main.js": "/SeratoSD/ScortsGram.git/static/js/runtime-main.ad2fae24.js",
-    "runtime-main.js.map": "/SeratoSD/ScortsGram.git/static/js/runtime-main.ad2fae24.js.map",
-    "static/js/2.36fccb34.chunk.js": "/SeratoSD/ScortsGram.git/static/js/2.36fccb34.chunk.js",
-    "static/js/2.36fccb34.chunk.js.map": "/SeratoSD/ScortsGram.git/static/js/2.36fccb34.chunk.js.map",
-    "index.html": "/SeratoSD/ScortsGram.git/index.html",
-    "precache-manifest.d02a65f7758bcf17082505bf1f59272a.js": "/SeratoSD/ScortsGram.git/precache-manifest.d02a65f7758bcf17082505bf1f59272a.js",
-    "service-worker.js": "/SeratoSD/ScortsGram.git/service-worker.js",
-    "static/css/main.f1e49e7a.chunk.css.map": "/SeratoSD/ScortsGram.git/static/css/main.f1e49e7a.chunk.css.map",
-    "static/js/2.36fccb34.chunk.js.LICENSE.txt": "/SeratoSD/ScortsGram.git/static/js/2.36fccb34.chunk.js.LICENSE.txt",
-    "static/media/gifback.gif": "/SeratoSD/ScortsGram.git/static/media/gifback.847d3a50.gif"
+    "main.css": "/ScortsGram/static/css/main.f1e49e7a.chunk.css",
+    "main.js": "/ScortsGram/static/js/main.38a6c116.chunk.js",
+    "main.js.map": "/ScortsGram/static/js/main.38a6c116.chunk.js.map",
+    "runtime-main.js": "/ScortsGram/static/js/runtime-main.ca38f7d4.js",
+    "runtime-main.js.map": "/ScortsGram/static/js/runtime-main.ca38f7d4.js.map",
+    "static/js/2.36fccb34.chunk.js": "/ScortsGram/static/js/2.36fccb34.chunk.js",
+    "static/js/2.36fccb34.chunk.js.map": "/ScortsGram/static/js/2.36fccb34.chunk.js.map",
+    "index.html": "/ScortsGram/index.html",
+    "precache-manifest.6348169d69b6c63cd81eb467de5538bc.js": "/ScortsGram/precache-manifest.6348169d69b6c63cd81eb467de5538bc.js",
+    "service-worker.js": "/ScortsGram/service-worker.js",
+    "static/css/main.f1e49e7a.chunk.css.map": "/ScortsGram/static/css/main.f1e49e7a.chunk.css.map",
+    "static/js/2.36fccb34.chunk.js.LICENSE.txt": "/ScortsGram/static/js/2.36fccb34.chunk.js.LICENSE.txt",
+    "static/media/gifback.gif": "/ScortsGram/static/media/gifback.847d3a50.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad2fae24.js",
+    "static/js/runtime-main.ca38f7d4.js",
     "static/js/2.36fccb34.chunk.js",
     "static/css/main.f1e49e7a.chunk.css",
-    "static/js/main.7cbd6891.chunk.js"
+    "static/js/main.38a6c116.chunk.js"
   ]
 }
